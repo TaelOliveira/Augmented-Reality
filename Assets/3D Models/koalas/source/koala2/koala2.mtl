@@ -1,0 +1,34 @@
+# MTL
+
+newmtl Couche_1_mtl
+	map_Kd koala2_Couche_1.png
+
+
+newmtl koala_mtl
+	map_Kd koala2_koala.png
+
+
+newmtl griffes_mtl
+	map_Kd koala2_griffes.png
+
+
+newmtl yeux_mtl
+	map_Kd koala2_yeux.png
+
+
+newmtl Couche_5_mtl
+	map_Kd koala2_Couche_5.png
+
+
+newmtl Couche_2_mtl
+	map_Kd koala2_Couche_2.png
+
+
+newmtl Couche_3_mtl
+	map_Kd koala2_Couche_3.png
+
+
+newmtl Couche_4_mtl
+	map_Kd koala2_Couche_4.png
+
+
