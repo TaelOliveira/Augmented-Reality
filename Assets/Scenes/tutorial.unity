@@ -328,7 +328,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Welcome to our game!!!
+  m_Text: Welcome to Team braza
 --- !u!222 &1091763068
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1081,18 +1081,21 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.5
-  m_Text: '- Scan the pictures on the book
+  m_Text: 'How does it work?
 
-    - Click on the 3D objects that will
-    show on your phone
 
-    - Click on the buttons on the screen
+    - Scan the pictures on the book.
 
-    - Some pictures
-    might move around the screen, other may play sounds
+    - Click
+    on the 3D objects that will show on your phone.
 
-    - Some pictures will
-    play automatically
+    - Click on the buttons on
+    the screen.
+
+    - Some pictures might move around the screen, other may play
+    sounds.
+
+    - Some pictures will play automatically.
 
 '
 --- !u!222 &1959943427
